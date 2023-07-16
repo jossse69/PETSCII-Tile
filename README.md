@@ -46,5 +46,5 @@ The PETSCIITile Framework is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback regarding the PETSCIITile Framework, please feel free to reach out to me at [jlc.beker@gmail.com](mailto:jlc.beker@gmail.com).
+If you have any questions or feedback regarding the PETSCIITile Framework, please feel free to reach out to the project maintainer at [jlc.beker@gmail.com](mailto:jlc.beker@gmail.com).
 
