@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PETSCII-Tile", "PETSCII-Tile\PETSCII-Tile.csproj", "{6D7E53D5-1858-4FF4-97E4-2509B21EF8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PETSCII-tile demo game", "PETSCII-tile demo game\PETSCII-tile demo game.csproj", "{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo game", "demo game", "{4D755256-51F4-467F-B0B0-860AA39D9ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D7E53D5-1858-4FF4-97E4-2509B21EF8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7E53D5-1858-4FF4-97E4-2509B21EF8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7E53D5-1858-4FF4-97E4-2509B21EF8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7E53D5-1858-4FF4-97E4-2509B21EF8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{947F9DE9-D5A1-40F3-B7F7-4F20E1C1A23F} = {4D755256-51F4-467F-B0B0-860AA39D9ED6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B518B894-9E2F-450D-9810-5C2314D9F14C}
+	EndGlobalSection
+EndGlobal
