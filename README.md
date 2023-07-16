@@ -28,7 +28,7 @@ To get started with the PETSCIITile Framework, follow these steps:
 
 ## Documentation
 
-For detailed documentation and usage instructions, please refer to the [Wiki](https://github.com/your-username/PETSCIITile/wiki) of this repository.
+For detailed documentation and usage instructions, please refer to the [Wiki](https://github.com/jossse69/PETSCIITile/wiki) of this repository.
 
 ## Contributions
 
