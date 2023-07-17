@@ -16,7 +16,7 @@ The PETSCIITile Framework is a tile-based game framework that allows you to crea
 To get started with the PETSCIITile Framework, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/jossse69/PETSCII-Tile`
+`git clone https://github.com/jossse69/PETSCII-Tile.git`
 
 2. Set up your development environment with the required dependencies, such as SFML.
 
